@@ -27,8 +27,8 @@ $ pip3 install thrift==0.11.0
 $ pip3 install tweepy
 $ pip3 install wikipedia
 $ apt install git
-$ git clone https://github.com/Aditmadzs/Protect4
-$ cd Protect4
+$ git clone https://github.com/s97173/helper
+$ cd helper
 $ python3 adit4.py
 ```
 
